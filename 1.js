@@ -8,3 +8,10 @@ iziToast.show({
                         });
 
                     
+iziToast.success({
+
+    title: '欢迎',
+
+    message: '欢迎访问我的博客',
+
+});
