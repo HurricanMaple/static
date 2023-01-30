@@ -15,3 +15,20 @@ iziToast.success({
     message: '欢迎访问我的博客',
 
 });
+//用户欢迎
+
+    setTimeout(function () {
+
+        iziToast.show({
+
+            timeout: 2500,
+
+            icon: false,
+
+            title: hello,
+
+            message: '欢迎来到我的主页'
+
+        });
+
+    }, 800);
