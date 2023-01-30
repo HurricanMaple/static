@@ -17,7 +17,7 @@ iziToast.success({
 });
 //用户欢迎
 
-    setTimeout(function () {
+
 
         iziToast.show({
 
