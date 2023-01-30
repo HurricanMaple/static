@@ -1,6 +1,6 @@
 iziToast.show({
 
-                            timeout: 1000,
+                            timeout: 1680,
                             title: 'Hey',
 
                             message: '欢迎访问我的博客！'
