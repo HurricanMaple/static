@@ -7,7 +7,7 @@ document.addEventListener("copy",function(e){
                 message:"若要转载请务必保留原文链接！爱你呦~",
                 position: 'top-right',
                 offset: 50,
-                showClose: false,
+                showClose: true,
                 type:"success"
             });
             return{visible:false}
